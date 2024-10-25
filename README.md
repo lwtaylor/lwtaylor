@@ -7,10 +7,10 @@
 ### Notable Projects
 
 **X-Ray Image Report Generator**
-- [Project Poster](https://drive.google.com/file/d/11IWMHwXypiSh9SmqlCkUYjpxBJvzO2lW/view)
-- [Project Website](https://ai-xray.netlify.app/)
-- [Project Report](https://drive.google.com/file/d/1j512A9MqxHvVlbX3mIDk1owB4OS3VqI8/view)
-- [Project Github](https://github.com/raymondsong00/Xray-Report-Generator)
+- [Poster](https://drive.google.com/file/d/11IWMHwXypiSh9SmqlCkUYjpxBJvzO2lW/view)
+- [Website](https://ai-xray.netlify.app/)
+- [Report](https://drive.google.com/file/d/1j512A9MqxHvVlbX3mIDk1owB4OS3VqI8/view)
+- [Github](https://github.com/raymondsong00/Xray-Report-Generator)
 
 **Taxi Cab Ride Time Prediction Deep Learning Competition**
 - [Project Github](https://github.com/cse151b-sp23/UCSD-CSE-151B-Class-Competition---Kagglistaz/)
